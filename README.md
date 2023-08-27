@@ -33,9 +33,8 @@ Hi, I'm Anshid a former physics teacher who's embarked on an exciting journey in
 
 ### 📊 Featured Projects
 
-- [Web Scraping Project](https://github.com/your-username/web-scraping-project): A project showcasing my skills in web scraping using Python and Beautiful Soup.
-- [Tableau Dashboard](https://public.tableau.com/profile/your-tableau-profile): An interactive dashboard visualizing a dataset's insights using Tableau.
-
+- [Web Scraping Project](https://github.com/anshidthariyakkodan/Naukri_webscraping_dashboard)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/anshid.t.k/viz/Naukriblended/Naukridashboard)
 ### 🎉 Thanks for Visiting!
 
 Feel free to explore my projects and connect with me. Let's collaborate and learn together! 🌟
