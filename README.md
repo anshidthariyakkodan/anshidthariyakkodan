@@ -43,8 +43,7 @@ Feel free to explore my projects and connect with me. Let's collaborate and lear
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
-</p>
+  
 
 
 <!---
